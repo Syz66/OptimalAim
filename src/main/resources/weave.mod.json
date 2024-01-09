@@ -1,0 +1,7 @@
+{
+  "name": "Optimal Aim",
+  "modId": "optimalaim",
+  "entrypoints": [
+    "me.zircta.optimalaim.Main"
+  ]
+}
