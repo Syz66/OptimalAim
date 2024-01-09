@@ -6,6 +6,10 @@ Renders a box displaying the most optimal location to aim on players.
 ### Credits
 Thanks to [Ultramicroscope](https://github.com/Ultramicroscope) for refactoring the original Optimal Aim making it readable :D
 
+### Known issues
+- Both color options being synced
+- Players getting colored
+
 ### Installation
 1. Download [Optimal Aim](https://github.com/Syz66/OptimalAim/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
